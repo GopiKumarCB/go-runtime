@@ -1,4 +1,4 @@
-## Go runtime Dockerfile
+## Go runtime Dockerfile 
 
 
 This repository contains **Dockerfile** of [Go programming language](http://golang.org/) runtime for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/go-runtime/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).

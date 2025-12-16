@@ -26,7 +26,7 @@ This project heavily borrowed code from Google's [google/golang-runtime](https:/
 
 ### Usage
 
-This image assumes that your application:
+This image assumes that your application:  
 
 * has a `main` package
 * listens on port `8080`

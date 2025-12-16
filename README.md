@@ -3,7 +3,7 @@
 
 This repository contains **Dockerfile** of [Go programming language](http://golang.org/) runtime for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/go-runtime/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
-This image is a base image that makes it easy to dockerize standard golang applications.
+This image is a base image that makes it easy to dockerize standard golang applications. 
 
 It can automatically bundle a golang application with its dependencies and set the default command to the compiled binary with no additional Dockerfile instructions.
 
